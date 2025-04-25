@@ -1,0 +1,17 @@
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Infra.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Infra.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\ref\Infra.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Domain.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Domain.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\bin\Debug\net8.0\Entities.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
