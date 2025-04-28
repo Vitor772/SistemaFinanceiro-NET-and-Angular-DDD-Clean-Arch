@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Helpers\\Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Helpers\\Helpers.csproj",
       "projectName": "Helpers",
-      "projectPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Helpers\\Helpers.csproj",
+      "projectPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Helpers\\Helpers.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Helpers\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

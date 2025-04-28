@@ -1,0 +1,188 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
+    "Method": "AdicionarSistemaFinanceiro",
+    "RelativePath": "api/AdicionarSistemaFinanceiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sistemaFinanceiro",
+        "Type": "Entities.Entidades.SistemaFinanceiro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "AdicionaUsuario",
+    "RelativePath": "api/AdicionaUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebApi.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
+    "Method": "AtualizarSistemaFinanceiro",
+    "RelativePath": "api/AtualizarSistemaFinanceiro",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sistemaFinanceiro",
+        "Type": "Entities.Entidades.SistemaFinanceiro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UsuariosSistemaFinanceiroController",
+    "Method": "CadastrarUsuarioNoSistema",
+    "RelativePath": "api/CadastrarUsuarioNoSistema",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idSistema",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "emailUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TokenController",
+    "Method": "CreateToken",
+    "RelativePath": "api/CreateToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Input",
+        "Type": "WebApi.Models.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
+    "Method": "DeleteSistemaFinanceiro",
+    "RelativePath": "api/DeleteSistemaFinanceiro",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UsuariosSistemaFinanceiroController",
+    "Method": "DeleteUsuarioNoSistema",
+    "RelativePath": "api/DeleteUsuarioNoSistema",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UsuariosSistemaFinanceiroController",
+    "Method": "ListarUsuariosSistema",
+    "RelativePath": "api/ListarUsuariosSistema",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idSistema",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
+    "Method": "ListaSistemasUsuario",
+    "RelativePath": "api/ListaSistemaUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
+    "Method": "AtualizarSistemaFinanceiro",
+    "RelativePath": "api/ObterSistemaFinanceiro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApi.WeatherForecast, WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

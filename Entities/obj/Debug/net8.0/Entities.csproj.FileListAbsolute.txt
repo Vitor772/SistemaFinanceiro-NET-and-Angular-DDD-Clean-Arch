@@ -10,3 +10,16 @@ C:\Users\vitor\source\repos\SistemaFinanceiro\Entities\obj\Debug\net8.0\Entities
 C:\Users\vitor\source\repos\SistemaFinanceiro\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\vitor\source\repos\SistemaFinanceiro\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\vitor\source\repos\SistemaFinanceiro\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Entities\obj\Debug\net8.0\ref\Entities.dll

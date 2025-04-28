@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixYYdx7Klu0=",
+  "dgSpecHash": "/KbobQi85jM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.15\\microsoft.aspnetcore.cryptography.internal.8.0.15.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.15\\microsoft.aspnetcore.cryptography.keyderivation.8.0.15.nupkg.sha512",

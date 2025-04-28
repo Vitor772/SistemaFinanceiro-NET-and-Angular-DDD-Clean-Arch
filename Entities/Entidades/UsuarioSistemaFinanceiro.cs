@@ -11,7 +11,7 @@ namespace Entities.Entidades
     {
         public int Id { get; set; }
 
-        public int EmailUsuario { get; set; }
+        public string EmailUsuario { get; set; }
 
         public bool Administrador { get; set; }
 

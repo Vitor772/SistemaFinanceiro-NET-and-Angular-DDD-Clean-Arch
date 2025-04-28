@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5YtwfHJ71oA=",
+  "dgSpecHash": "rogOn2thXDM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Infra\\Infra.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

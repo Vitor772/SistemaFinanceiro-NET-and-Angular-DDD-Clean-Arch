@@ -13,3 +13,19 @@ C:\Users\vitor\source\repos\SistemaFinanceiro\Domain\bin\Debug\net8.0\Entities.d
 C:\Users\vitor\source\repos\SistemaFinanceiro\Domain\bin\Debug\net8.0\Entities.pdb
 C:\Users\vitor\source\repos\SistemaFinanceiro\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
 C:\Users\vitor\source\repos\SistemaFinanceiro\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\bin\Debug\net8.0\Entities.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\bin\Debug\net8.0\Entities.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\vitor\source\repos\SistemaFinanceiro NET  and Angular DDD Clean Arch\Domain\obj\Debug\net8.0\ref\Domain.dll

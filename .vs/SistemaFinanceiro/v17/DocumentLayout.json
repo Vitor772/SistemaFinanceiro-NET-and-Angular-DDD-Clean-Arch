@@ -1,50 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\",
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\controllers\\usuariossistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariossistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\controllers\\sistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\sistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\entities\\notificacaoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|solutionrelative:entities\\notificacaoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\token\\tokenjwtbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\token\\tokenjwtbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\token\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\token\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\token\\jwtsecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\token\\jwtsecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\iusuariosistemafinanceiro\\interfaceusuariossistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuariosistemafinanceiro\\interfaceusuariossistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AA2DAA9-E35F-41AC-BD94-204E2D839AC9}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\isistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|solutionrelative:infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200821AA-D273-4647-A813-231389662A29}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icategoria\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2F502C40-5C15-4478-BF43-8093281DE591}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|c:\\users\\vitor\\source\\repos\\sistemafinanceiro net  and angular ddd clean arch\\infra\\migrations\\20250426040254_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C886711-D0D2-41A9-AA2A-43812D633F7E}|Infra\\Infra.csproj|solutionrelative:infra\\migrations\\20250426040254_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +134,380 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebApi",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T20:17:53.521Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:08:21.259Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICategoriaServico.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Title": "SistemaFinanceiroController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\SistemaFinanceiroController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SistemaFinanceiroController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\SistemaFinanceiroController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SistemaFinanceiroController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:11:16.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T13:27:47.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriaServico.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Servicos\\CategoriaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Servicos\\CategoriaServico.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Servicos\\CategoriaServico.cs",
-              "RelativeToolTip": "Domain\\Servicos\\CategoriaServico.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T19:27:08.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DespesaServico.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Servicos\\DespesaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Servicos\\DespesaServico.cs",
-              "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T19:09:04.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T21:04:19.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T10:04:41.389Z",
-              "EditorCaption": ""
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwDMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:12:06.722Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Notifica.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Entities\\Notificacaoes\\Notifica.cs",
-              "RelativeDocumentMoniker": "Entities\\Notificacaoes\\Notifica.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Entities\\Notificacaoes\\Notifica.cs",
-              "RelativeToolTip": "Entities\\Notificacaoes\\Notifica.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA6wDgAAAAJAAAAAAAAAA==",
+              "Title": "TokenJWTBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\TokenJWTBuilder.cs",
+              "RelativeDocumentMoniker": "WebApi\\Token\\TokenJWTBuilder.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\TokenJWTBuilder.cs",
+              "RelativeToolTip": "WebApi\\Token\\TokenJWTBuilder.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwFQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:10:39.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T20:57:24.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InterfaceCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABMAAAAAAAAAA==",
+              "Title": "TokenJWT.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\TokenJWT.cs",
+              "RelativeDocumentMoniker": "WebApi\\Token\\TokenJWT.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\TokenJWT.cs",
+              "RelativeToolTip": "WebApi\\Token\\TokenJWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:06:34.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T03:28:24.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ISistemaFinanceiroServico.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Title": "JwtSecurityKey.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\JwtSecurityKey.cs",
+              "RelativeDocumentMoniker": "WebApi\\Token\\JwtSecurityKey.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Token\\JwtSecurityKey.cs",
+              "RelativeToolTip": "WebApi\\Token\\JwtSecurityKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:14:16.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T04:29:13.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "InterfaceSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Models\\InputModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\InputModel.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Models\\InputModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\InputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:07:25.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T01:34:05.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBcAAABIAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Models\\Login.cs",
+              "RelativeToolTip": "WebApi\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:28:16.587Z",
+              "WhenOpened": "2025-04-26T02:18:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosSistemaFinanceiroController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\UsuariosSistemaFinanceiroController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuariosSistemaFinanceiroController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Controllers\\UsuariosSistemaFinanceiroController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuariosSistemaFinanceiroController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvyMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:24:59.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ContextBase.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Infra\\Configuracao\\ContextBase.cs",
-              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro\\Infra\\Configuracao\\ContextBase.cs",
-              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBUAAAAeAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwFgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:45:39.063Z"
+              "WhenOpened": "2025-04-25T20:58:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:08:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InterfaceSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:07:25.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InterfaceUsuariosSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuariosSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuariosSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuariosSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\InterfaceUsuariosSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:35:44.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:07:02.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T03:02:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:51:40.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsuarioSistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:05:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:05:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\CategoriaServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\CategoriaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:29:46.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Infra.csproj",
+              "RelativeDocumentMoniker": "Infra\\Infra.csproj",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Infra.csproj",
+              "RelativeToolTip": "Infra\\Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T04:13:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\Dockerfile",
+              "RelativeToolTip": "WebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T04:14:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:29:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250426040254_InitialMigrate.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Migrations\\20250426040254_InitialMigrate.cs",
+              "RelativeDocumentMoniker": "Infra\\Migrations\\20250426040254_InitialMigrate.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Infra\\Migrations\\20250426040254_InitialMigrate.cs",
+              "RelativeToolTip": "Infra\\Migrations\\20250426040254_InitialMigrate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:02:54.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InterfaceCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICategoria\\InterfaceCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:06:34.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T03:19:42.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:09:46.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaFinanceiro NET  and Angular DDD Clean Arch\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-26T03:22:15.06Z"
             }
           ]
         }
