@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "WebApi.Controllers.CategoriaController",
+    "Method": "AdicionarCategoria",
+    "RelativePath": "api/AdicionarCategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "Entities.Entidades.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "AdicionarDespesa",
+    "RelativePath": "api/AdicionarDespesa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "despesa",
+        "Type": "Entities.Entidades.Despesa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.SistemaFinanceiroController",
     "Method": "AdicionarSistemaFinanceiro",
     "RelativePath": "api/AdicionarSistemaFinanceiro",
@@ -26,6 +58,38 @@
       {
         "Name": "login",
         "Type": "WebApi.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.CategoriaController",
+    "Method": "AtualizarCategoria",
+    "RelativePath": "api/AtualizarCategoria",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "Entities.Entidades.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "AtualizarDespesa",
+    "RelativePath": "api/AtualizarDespesa",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "despesa",
+        "Type": "Entities.Entidades.Despesa",
         "IsRequired": true
       }
     ],
@@ -69,6 +133,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "CarregarGraficos",
+    "RelativePath": "api/CarregarGraficos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.TokenController",
     "Method": "CreateToken",
     "RelativePath": "api/CreateToken",
@@ -80,6 +160,38 @@
         "Name": "Input",
         "Type": "WebApi.Models.InputModel",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.CategoriaController",
+    "Method": "DeleteCategoria",
+    "RelativePath": "api/DeleteCategoria",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "DeleteDespesa",
+    "RelativePath": "api/DeleteDespesa",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -117,6 +229,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApi.Controllers.CategoriaController",
+    "Method": "ListarCategoriaUsuarios",
+    "RelativePath": "api/ListarCategoriaUsuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "ListarDepesasUsuario",
+    "RelativePath": "api/ListarDepesasUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.UsuariosSistemaFinanceiroController",
     "Method": "ListarUsuariosSistema",
     "RelativePath": "api/ListarUsuariosSistema",
@@ -143,6 +287,38 @@
       {
         "Name": "emailUsuario",
         "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.CategoriaController",
+    "Method": "ObterCategoria",
+    "RelativePath": "api/ObterCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.DespesasController",
+    "Method": "ObterDespesa",
+    "RelativePath": "api/ObterDespesa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],

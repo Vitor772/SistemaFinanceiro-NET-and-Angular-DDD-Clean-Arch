@@ -5,6 +5,281 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/ListarCategoriaUsuarios": {
+      "get": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "emailUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AdicionarCategoria": {
+      "post": {
+        "tags": [
+          "Categoria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AtualizarCategoria": {
+      "put": {
+        "tags": [
+          "Categoria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Categoria"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ObterCategoria": {
+      "get": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/DeleteCategoria": {
+      "delete": {
+        "tags": [
+          "Categoria"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ListarDepesasUsuario": {
+      "get": {
+        "tags": [
+          "Despesas"
+        ],
+        "parameters": [
+          {
+            "name": "emailUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AdicionarDespesa": {
+      "post": {
+        "tags": [
+          "Despesas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AtualizarDespesa": {
+      "put": {
+        "tags": [
+          "Despesas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Despesa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ObterDespesa": {
+      "get": {
+        "tags": [
+          "Despesas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/DeleteDespesa": {
+      "delete": {
+        "tags": [
+          "Despesas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CarregarGraficos": {
+      "get": {
+        "tags": [
+          "Despesas"
+        ],
+        "parameters": [
+          {
+            "name": "emailUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/ListaSistemaUsuario": {
       "get": {
         "tags": [
@@ -309,6 +584,109 @@
   },
   "components": {
     "schemas": {
+      "Categoria": {
+        "type": "object",
+        "properties": {
+          "nomePropriedade": {
+            "type": "string",
+            "nullable": true
+          },
+          "mensagem": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "idSistema": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "sistemaFinanceiro": {
+            "$ref": "#/components/schemas/SistemaFinanceiro"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Despesa": {
+        "type": "object",
+        "properties": {
+          "nomePropriedade": {
+            "type": "string",
+            "nullable": true
+          },
+          "mensagem": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "mes": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ano": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipoDespesa": {
+            "$ref": "#/components/schemas/EnumTipoDespesa"
+          },
+          "dataCadastro": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dataPagamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dataAlteracao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dataVencimento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "pago": {
+            "type": "boolean"
+          },
+          "despesaAntrasada": {
+            "type": "boolean"
+          },
+          "idCategoria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "categoria": {
+            "$ref": "#/components/schemas/Categoria"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnumTipoDespesa": {
+        "enum": [
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
       "InputModel": {
         "type": "object",
         "properties": {

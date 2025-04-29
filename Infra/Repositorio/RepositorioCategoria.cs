@@ -19,6 +19,12 @@ namespace Infra.Repositorio
         {
             _OptionsBuilder = new DbContextOptions<ContextBase>();
         }
+
+        public Task<object> AtualizarCategoria(Categoria categoria)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<IList<Categoria>> ListarCategoriaUsuarios(string emailUsuario)
         {
             using (var banco = new ContextBase(_OptionsBuilder))
